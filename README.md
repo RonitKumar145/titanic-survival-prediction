@@ -14,7 +14,7 @@ A Machine Learning web application that predicts whether a passenger would have 
 Add your Streamlit URL here:
 
 ```text
-https://your-titanic-app.streamlit.app
+https://ronit-titanic-survival-prediction.streamlit.app/
 ```
 
 ---
@@ -273,7 +273,7 @@ Replace image names if different.
 ### Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/titanic-survival-prediction.git
+git clone https://github.com/RonitKumar145/titanic-survival-prediction.git
 ```
 
 ### Move into Project Folder
